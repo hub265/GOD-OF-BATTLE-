@@ -87,7 +87,7 @@
   
   <p>Join India's Best Free Fire Tournament • Compete Daily, Win Cash Instantly 💥</p>  
   
-  <a href="https://ga-fs.primexop.com/12367/androidBuilds/god-of-battleV1.apk" class="download-btn">
+  <a href="" class="download-btn">
     ⚔ Download App (APK)
   </a>  
   
